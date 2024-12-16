@@ -1,0 +1,1 @@
+## please open terminal inside src/main/resources directory and run `cp app.properties.sample app.properties` command in terminal and set your own database credentials accordingly before running app locally
